@@ -1,4 +1,4 @@
-# react-blog
+# react-blog -node-mongoDB
 
 This repo contains blog website. 
 built using react , node , mongo db. 
