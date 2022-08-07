@@ -1,7 +1,7 @@
 # react-blog
 
 This repo contains blog website. 
-built using react js. 
+built using react , node , mongo db. 
 
 
 ![image (4)](https://user-images.githubusercontent.com/101380637/183305805-937b5423-d757-4bf9-9429-ebf352c9e4ec.png)
